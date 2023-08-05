@@ -89,3 +89,73 @@ header{
     align-items: flex-start;
     gap: 10px;
 }
+/* Content 3 styles */
+.content3{
+    padding: 50px 100px 0px 100px;
+    
+  
+    
+}
+.content-3{
+    border-radius: 0;
+
+}
+.content3-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.content3-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+.flowers > img{
+    padding-right: 15px;
+}
+.flowers{
+    margin: 0 120px;
+    text-align: center;
+}
+.back{
+    background-image: url(../Css/Rectangle\ 9.png);
+    align-items: center;
+    margin: 80px 120px;
+    width: 1440px;
+    height: 449px;
+    padding: 50px 0 0 0;
+    background-repeat: no-repeat;
+    
+    
+}
+.back-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px; 
+    font-weight: 800;
+
+}
+.back-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    padding-bottom: 25px;
+}
+.back-input{
+    border-radius: 5px;
+    background: #FFF;
+    width: 650px;
+    height: 50px;
+    margin-left: 320px;
+    border: 0;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    
+
+}
