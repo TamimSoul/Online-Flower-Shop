@@ -17,13 +17,13 @@ body{
 /* header styles */
 header{
     background: rgba(229, 84, 115, 0.10);
-    border: 0;
+    
 }
 .banner{
     padding: 50px 20px 0px 20px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     
 }
 .banner .banner-pic{
@@ -57,4 +57,35 @@ header{
     align-items: flex-start;
     gap: 10px;
    
+}
+/* main section 2 styles */
+.content2{
+    padding: 50px 100px 0px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+}
+.content2-des{
+    max-width: 600px;
+    text-align: center;
+}
+.content2-heading{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 0;
+ 
+}
+.content2-p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.btn-content2{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
 }
